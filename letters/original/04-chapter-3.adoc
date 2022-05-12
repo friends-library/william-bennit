@@ -1,5 +1,6 @@
 == Chapter III. An Address to His Father and Mother
 
+[.salutation]
 Dear Father and Mother,
 
 My endeared love abounds towards you,
@@ -151,8 +152,11 @@ So the Lord God Almighty preserve me and you, and all his little ones,
 in his holy awe and dread, and +++[+++enable us]
 to pass the time of our pilgrimage here in fear and trembling.
 
+[.signed-section-closing]
 From your son,
 
+[.signed-section-signature]
 William Bennit
 
+[.signed-section-context-close]
 Bliborough Jail, 5th month, 1661.

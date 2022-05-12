@@ -1,6 +1,7 @@
 [short="To the Suffering Lambs in Prison"]
 == Chapter V. To the Suffering Lambs of the Lord`'s Flock in Prison
 
+[.salutation]
 Dear, suffering, tribulated lambs of my Maker,
 
 The tender unfeigned salutation of my soul reaches unto you,
@@ -76,7 +77,9 @@ From your friend and companion in the patience and long-suffering of the Lamb, w
 must, and shall have the victory over all his enemies,
 to triumph and reign in dominion eternally.
 
+[.signed-section-signature]
 William Bennit
 
+[.signed-section-context-close]
 Norwich Castle, 29th of 7th mo.
 1664.

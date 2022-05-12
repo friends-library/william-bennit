@@ -1,5 +1,6 @@
 == Chapter VI. A Letter to a Friend Under Suffering
 
+[.salutation]
 Dear Friend,
 
 In that which is eternal and unchangeable,
@@ -57,6 +58,8 @@ that thou mayst say with thy whole heart, "`Lord, not my will, but thine be done
 In that love which drew me forth to write these lines unto thee,
 I remain thy dear friend in the truth.
 
+[.signed-section-signature]
 William Bennit
 
+[.signed-section-context-close]
 1665.

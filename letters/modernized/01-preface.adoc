@@ -14,10 +14,10 @@ of Friends at the time of its early existence.
 In the character of William Bennit, from whose writings this little compilation is taken,
 these fruits of the Spirit appear to have been very conspicuous.
 
-The first part of the Memoir is taken from a piece in his works,
+The first part of the [.book-title]#Memoir# is taken from a piece in his works,
 entitled,
-The Work and Mercy of God Conducing to His Praise,
-or a Demonstration of the Visitation of God`'s Love to My Soul in the Days of My Youth;
+_The Work and Mercy of God Conducing to His Praise,
+or a Demonstration of the Visitation of God`'s Love to My Soul in the Days of My Youth;_
 the remaining part is extracted from testimonies concerning William Bennit,
 written by two of his friends and fellow-sufferers for the truth: and although,
 for the sake of brevity, some parts of these, and also of the other pieces,
@@ -26,6 +26,8 @@ yet it is believed that these Selections will not, on that account,
 prove the less instructive; and that the abridged form in which they are now offered,
 will obtain for them a more extensive circulation.
 
+[.signed-section-signature]
 T+++.+++ C.
 
+[.signed-section-context-close]
 Kingston on Thames.
